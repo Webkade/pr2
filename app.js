@@ -15,7 +15,7 @@ app.use(express.static(__dirname + '/js'));
 app.set('view engine', 'jade')
 
 app.get('/', function(req, res) {
- res.send('great');
+ res.send('great awesome');
 });
 
 
