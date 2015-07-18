@@ -1,0 +1,17 @@
+{
+  "name": "mailgun-node-tutorial",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "4",
+    "jade": "*",
+    "body-parser"     : "~1.4.3",
+    "mailgun-js":"0.5",
+    "method-override" : "~2.1.1",
+     "multer" : "~0.1.6",
+     "selenium-webdriver":"~2.46.1"
+  }
+}
